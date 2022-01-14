@@ -1,0 +1,22 @@
+{
+    "api": {
+        "username":"",
+        "password":"",
+        "url":"https://alerta.ina.gob.ar/a5",
+        "token": ""
+    },
+    "database": {
+        "dbname": "",
+        "user": "",
+        "host": "",
+        "port": 5432
+    },
+    "proxy_dict": {
+        "http": "",
+        "https": "",
+        "ftp": ""
+    }, 
+    "use_proxy": false,
+    "working_dir": "C:/HIDRODELTA_15D/"
+}
+
