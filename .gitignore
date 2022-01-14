@@ -1,0 +1,13 @@
+config.json
+Modelo-DeltaParana_2017_pre_14D
+Codigos/*.bak
+outputfile.json
+SalidasDelta15D.json
+Codigos/Viejo
+Figuras/*
+Estaciones/Viejo
+BBDDLocal/BD_Delta_14D_01_copy.sqlite
+BBDDLocal/BD_Delta_14D_01.sqlite-journal
+BBDDLocal/BD_Delta_14D_01.sqlite
+Codigos/__pycache__
+Codigos/*.pyc

@@ -1,0 +1,67 @@
+Id,EsSalida,X,Y,River,Reach,River Stat,Node Name,NomBBDD,nombre,unid,series_id,cero_escala,S_id_geom,S_id_hidro,x2,y2
+1,1,5458517.12,6494592.26,Parana, ParanaAA,224000,Estacion Parana,Estacion Parana,Parana,29,29,9.432,29633,3408,5450470.15,6491238.169
+2,1,5434113.256,6438268.222,Parana, ParanaAA,18.96,Estacion Diamante PVNyMM,Estacion Diamante PVNyMM,Diamante PVNyMM,1725,,6.763,29635,29634,,
+2,1,5434113.256,6438268.222,Parana, ParanaAA,18.96,Estacion Diamante,Estacion Diamante,Diamante,31,31,6.747,29636,3409,5439266.757,6451997.618
+3,1,5427940.559,6393912.45,Parana, 2b,237194.8,Timbues,Timbues,Timbues,1770,,0,29638,3389,,
+4,1,5433028.28,6381429.8,Parana, 2b,223194.8,Estacion San Martin PVNyMM,Estacion San Martin PVNyMM,San Martin PVNyMM,1723,,3.625,29641,3411,5432023.025,6381458.072
+4,1,5433028.28,6381429.8,Parana, 2b,223194.8,Estacion San Martin,Estacion San Martin,San Martin,33,,3.309,29640,29639,5431980.072,6378526.857
+5,1,5442394.734,6352464.459,Parana, 2b,188533.7,Estacion Rosario PVNyMM,Estacion Rosario PVNyMM,Rosario PVNyMM,1722,,3.032,29645,29542,5442199.886,6352032.031
+5,1,5442394.734,6352464.459,Parana, 2b,188533.7,Estacion Rosario,Estacion Rosario,Estacion Rosario,34,,2.923,29644,3412,5441009.726,6355333.296
+5,1,5442394.734,6352464.459,Parana, 2b,188533.7,Estacion Rosario,Estacion Rosario,Rosario_rhn,5893,,2.923,29643,29642,,
+6,1,5472964.211,6328119.934,Parana, 2b,143588.9,Estacion Villa Constitucion,Estacion Villa Constitucion,Villa Constitucion,35,,1.981,29646,3413,5471190.228,6323065.855
+6,1,5472964.211,6328119.934,Parana, 2b,143588.9,Estacion Villa Constitucion,Estacion Villa Constitucion,VillaConstitucion_rhn,5905,,1.981,29647,29538,,
+7,1,5481422.361,6315949.114,Parana,3,126030.6,Estacion San Nicolas,Estacion San Nicolas,San Nicolas,36,,1.954,29648,3414,5482356.762,6311271.813
+8,1,5500543.283,6297007.654,Parana,3,94846.95,Estacion Ramallo,Estacion Ramallo,Ramallo,37,,1.642,29649,3415,5500399.67,6296196.656
+9,1,5534392.242,6274013.513,Parana,3,44071.76,Estacion San Pedro,Estacion San Pedro,San Pedro,38,,0.714,29650,3416,5532483.797,6274351.172
+10,1,5565649.348,6268445.215,Parana,4,498.7283,Estacion Bifurcacion,Estacion Bifurcacion,Bifurcacion,1717,,1.37,29651,3417,5565896.402,6268924.175
+11,1,5480785.683,6388479.296,Victoria, Victoria,82.92,Victoria,Victoria,Victoria,32,,1.536,29652,3419,5479361.904,6386903.413
+12,1,5546806.691,6260268.443,RioBaradero, RioBaradero, 29.092*,Rio Baradero,Rio Baradero,Rio Baradero,39,,0.641,29653,3418,5546300.717,6260376.643
+13,1,5571153.789,6269898.369,Ibicuy, Ibicuy,7.16,Estacion Ibicuy,Estacion Ibicuy,Ibicuy,45,,0.456,29654,3420,5575961.779,6264404.323
+14,1,5568526.899,6245075.539,Palmas,2,101864.4,Estacion Baradero,Estacion Baradero,Baradero,1714,,1.156,29655,3402,5568619.561,6245078.256
+15,1,5574291.279,6242306.691,Palmas,3,94654.47,Atucha,Atucha,Atucha,151,,-0.556,29656,3403,,
+16,1,5591180.488,6227698.194,Palmas,3,68418.45,Estacion Zarate,Estacion Zarate,Zarate,1713,,0.388,29658,29534,5591004.149,6227672.104
+16,1,5591180.488,6227698.194,Palmas,3,68418.45,Estacion Zarate,Estacion Zarate,Zarate_rhn,5907,,0.388,29657,3404,,
+17,1,5596591.909,6220815.975,Palmas,4,57113.41,Campana,Campana,Campana,41,,0.418,29659,3405,5596075.04,6220556.35
+18,1,5602398.048,6217528.406,Palmas,4,49019.05,Estacion Las Rosas,Estacion Las Rosas,Las Rosas,1711,,0.03,29660,3406,5602383.73,6217381.556
+19,1,5604608.861,6217840.907,Palmas,4,46769.88,INTA Delta,INTA Delta,INTA Delta,9989,,0,29662,29661,,
+20,1,5627103.467,6207342.548,Palmas,8,21307.62,Carapachay,Carapachay,Carapachay,9990,,0,29664,29663,,
+21,1,5639470.788,6200328.418,Palmas, Desembocadura,6246.783,Estacion Braga,Estacion Braga,Braga,1702,,-0.337,29665,3407,5639469.948,6199949.089
+22,1,5617982.479,6203915.412,Lujan,1,24.421,Escobar,Escobar,Escobar,42,,0,29666,3398,5616918.25,6204297.107
+23,1,5620837.354,6198604.173,Lujan,1,18.0191,Dique Lujan,Dique Lujan,Dique Lujan,50,,-0.074,29667,3399,5620529.416,6198703.428
+24,1,5630566.925,6191360.033,Lujan,2,5.828,Tigre,Tigre,Tigre,49,,-0.099,29668,3400,5630542.207,6190801.419
+25,1,5600540.245,6250840.082,Guazu,3,1,Estacion Carabelitas,Estacion Carabelitas,Carabelitas,1712,,0.209,29669,3396,5613805.844,6243256.919
+26,1,5601874.023,6249740.247,Guazu,4,4,Estacion Brazo Largo,Estacion Brazo Largo,Brazo Largo,1715,,0.717,29670,3394,5600214.019,6250188.781
+27,1,5639619.61,6236560.943,Guazu, Desembocadura,8000,Estacion Desembocadura,Estacion Desembocadura,Desembocadura,1710,,0.327,29671,3395,5641332.22,6237560.413
+28,1,5623515.083,6252540.364,Gutierrez, Desembocadura,19967.07,Canal Nuevo,Canal Nuevo,Canal Nuevo,44,,0.39,29672,3397,5623960.025,6252726.51
+29,1,5638619.35,6216475.32,Mini, Desembocadura,11.9,Chana Mini,Chana Mini,Chana Mini,51,,-0.286,29673,3401,5639793.869,6215079.949
+30,1,5639766.715,6257339.108,Gutierrez, Desembocadura,1960.748,CB_Gutierrez,Gutierrez,Salida_Gutierrez,9991,,0,29674,29572,,
+31,1,5642503.07,6248372.99,Bravo, Desembocadura,0,CB_Bravo,Bravo,Salida_Bravo,9992,,0,29675,6061,,
+32,1,5645308.62,6243253.88,Sauce, Desembocadura,0,CB_Sauce,Sauce,Salida_Sauce,9993,,0,29676,6070,,
+33,1,5649795.46,6219095.06,BarcaGrande, Desembocadura,0,CB_BarcaGrande,BarcaGrande,Salida_BarcaGrande,9994,,0,29677,6060,,
+34,1,5648948.09,6213670.74,LaBarquita, Desembocadura,0,LaBarquita,LaBarquita,Salida_LaBarquita,9995,,0,29678,6065,,
+35,1,5647056.22,6211765.39,Mini, Desembocadura,0,Mini,Mini,Salida_Mini,9996,,0,29679,6067,,
+36,1,5638202.7,6195533.4,CanaldelEste, Desembocadura,0,CanaldelEste,CanaldelEste,Salida_CanaldelEste,9997,,0,29680,6062,,
+37,1,5637065.35,6190789.56,SanAntonio, Desembocadura,0,SanAntonio,SanAntonio,Salida_SanAntonio,9998,,0,29681,6069,,
+38,1,5635492.34,6188130.59,Lujan, Desembocadura,0,Lujan,Lujan,Salida_Lujan,9999,,0,29682,6066,,
+39,0,5433604.152,6498710.392,,,,SantaFe,,SantaFe,30,30,8.378,,,,
+40,0,5591276.861,6226905.979,,,,Zarate,,Zarate,40,,0.243,,,,
+41,0,5559152.887,6324356.567,,,,Puerto Ruiz,,Puerto Ruiz,46,,0.898,,,,
+42,0,5647794.146,6235301.581,,,,Guazucito,,Guazucito,48,,0.447,,,,
+43,0,5633279.182,6189283.123,,,,SanFernando,,SanFernando,52,52,-0.53,,,,
+44,0,5646845.591,6175022.263,,,,BsAs,,BsAs,85,85,0,,,,
+45,0,5643753.913,6228867.221,,,,Borches,,Borches,1257,,0.682,,,,
+46,0,5631608.634,6275331.305,,,,Martinez,,Martinez,1696,3278,0,,,,
+47,0,5626038.228,6197529.358,,,,Carapachay,,Carapachay,1698,,-1.459,,,,
+48,0,5645994.94,6250663.454,,,,Nueva Palmira,,Nueva Palmira,1699,3280,0.0275,,,,
+49,0,5647547.114,6340344.689,,,,Boca Guale,,Boca Guale,1700,,,,,,
+50,0,5576102.863,6265144.112,,,,Ibicuy,,Ibicuy,1716,,1.147,,,,
+51,0,5533278.708,6273153.606,,,,San Pedro,,San Pedro,1718,,0.899,,,,
+52,0,5500232.366,6296348.146,,,,Ramallo,,Ramallo,1719,,1.507,,,,
+53,0,5479692.55,6313307.375,,,,San Nicolas,,San Nicolas,1720,,1.95,,,,
+54,0,5470041.174,6324063.211,,,,Villa Constituci,,Villa Constituci,1721,,2.128,,,,
+55,0,5451132.27,6490957.172,,,,Parana_2,,Parana_2,1724,,0,,,,
+56,0,5657749.075,6335747.648,,,,Fray Bentos,,Fray Bentos,2235,,,,,,
+57,0,5450951.459,6491075.871,,,,Rio Parana Tunel,,Rio Parana Tunel,2356,,0,,,,
+58,0,5601764.819,6250731.902,,,,Guazu BLargo,,Guazu BLargo,2830,,0,,,,
+59,0,5689886.795,6524411.505,,,,Concordia,,Concordia,,,,,,,
+60,0,5689984.783,6162697.564,,,,Pilote Norden,,Pilote Norden,,,,,,,
